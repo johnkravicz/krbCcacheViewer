@@ -1,0 +1,146 @@
+# ==================================================
+# 🔒 AI / Claude Code
+# ==================================================
+.claude/
+.claude-cache/
+.claude_tmp/
+.claude_logs/
+.claude_sessions/
+.claude_history/
+.claude_config.json
+claude.config.json
+# Autres outils IA
+.ai/
+.ai-cache/
+.prompts/
+.prompt-cache/
+# ==================================================
+# 🧠 Sessions / historique / logs
+# ==================================================
+history/
+sessions/
+logs/
+*.log
+*.tmp
+*.cache
+*.bak
+*.swp
+# Outputs générés
+output/
+outputs/
+generated/
+dist/
+build/
+tmp/
+temp/
+# ==================================================
+# 🐍 Python
+# ==================================================
+**pycache**/
+*.py[cod]
+*$py.class
+# Environnements virtuels
+venv/
+.venv/
+env/
+ENV/
+# Distribution / packaging
+.Python
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+# Tests / coverage
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
+# ==================================================
+# 🔐 Secrets / config sensibles
+# ==================================================
+.env
+.env.*
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+secrets.json
+config.local.json
+config.json
+# ==================================================
+# 🌐 Réseau / pentest / tooling
+# ==================================================
+*.pcap
+*.pcapng
+*.cap
+*.har
+# Dumps / bases de données
+*.sql
+*.db
+*.sqlite
+*.sqlite3
+# Scans
+nmap-*.xml
+nmap-*.gnmap
+nmap-*.nmap
+# ==================================================
+# 🧰 IDE / éditeurs
+# ==================================================
+# VSCode
+.vscode/
+# JetBrains
+.idea/
+*.iml
+# Sublime
+*.sublime-project
+*.sublime-workspace
+# Vim
+*.swp
+*.swo
+# ==================================================
+# 💻 OS
+# ==================================================
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+desktop.ini
+# Linux
+*~
+# ==================================================
+# 🐳 Docker
+# ==================================================
+.docker/
+docker-compose.override.yml
+# ==================================================
+# 📦 Node (si utilisé)
+# ==================================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# ==================================================
+# 🧪 Misc
+# ==================================================
+*.pid
+*.seed
+*.out
+# ==================================================
+# 📁 Optionnel (décommente si besoin)
+# ==================================================
+# docs/generated/
+# reports/
+# exports/
