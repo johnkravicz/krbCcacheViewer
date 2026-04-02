@@ -114,3 +114,6 @@ This project is licensed under the GNU GPL v3 License.
 
 This tool is intended for educational and authorized security testing purposes only.
 Do not use it on systems you do not own or have explicit permission to test.
+
+This script is generated using AI : it may bug, crash, invite aliens or even cause apocalypse. 
+Please use with caution.
